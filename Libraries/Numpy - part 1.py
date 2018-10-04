@@ -152,4 +152,5 @@ print (x)
 
 # default base is 10 
 a = np.logspace(1,10, 10, True, True, int) 
+HEllo
 print (a)
