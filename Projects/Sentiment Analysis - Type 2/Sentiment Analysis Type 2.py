@@ -7,11 +7,11 @@ import csv
 
 
 # Step 1 - Authenticate
-consumer_key= 'aO2x6w4faG2iTPC63ljN6ipfV'
-consumer_secret= 'IADL4LNi3WdyvY28n5nkvBTv5zZQRjBLyd1FtIAPSA3Tud1RRJ'
+consumer_key= ''
+consumer_secret= ''
 
-access_token='171892894-h22DvIMvheDfxiePYYOdPhM4lbKPSdPd1XKb0NhI'
-access_token_secret='vmELNvfOe3ckhch5AbJHXUx1ucoHmGc23XzvjWUs5Yv1v'
+access_token=''
+access_token_secret=''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
